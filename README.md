@@ -6,7 +6,7 @@ Built using **Convolutional Neural Networks (CNN)** from scratch (no transfer le
 
 > Ideal for use cases such as health safety enforcement, smart surveillance systems, or embedded systems requiring mask compliance detection.
 
-<img src="images/Desain tanpa judul.png" alt="Prediction demo">
+<img src="images/test.png" alt="Prediction demo">
 
 ---
 
